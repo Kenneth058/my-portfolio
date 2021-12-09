@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Language Component snapshot 1`] = `
+<a
+  className="mx-2.5 inline-block transition-all duration-300 transform hover:-translate-y-2.5"
+  href="/"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+>
+  🇨🇷
+</a>
+`;

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainLayout renders MainLayout unchanged 1`] = `
+<div
+  className="bg-black-1 min-h-screen"
+>
+  Main Child
+</div>
+`;
