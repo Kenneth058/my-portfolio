@@ -19,7 +19,7 @@ beforeEach(() => {
 describe('useIndex hook', () => {
   it('should render text in english', () => {
     useRouterFn.mockImplementation(() => ({
-      locale: 'e',
+      locale: 'en',
     }))
     const { pageAttribute } = useIndex()
     const { title, subtitle, description } = pageAttribute
